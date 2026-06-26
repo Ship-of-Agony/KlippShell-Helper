@@ -1,4 +1,6 @@
-# KlippShell Helper - Unlock advanced functions via ADB commands
+# KlippShell Helper - Unlock advanced functions via ADB commands & other Stuff
+
+**🖼️ If the progress bar is missing, add the `[gcode_macro M73]` configuration to the bottom of your `printer.cfg` file. This ensures the generic Benchy model in the preview is correctly replaced by your currently printing file.**
 
 A lightweight, multi-language Windows utility designed to unlock advanced system features for the [KlippShell4Creality](https://github.com/Ship-of-Agony/KlippShell4creality) application on Android TV and Fire TV devices.
 
